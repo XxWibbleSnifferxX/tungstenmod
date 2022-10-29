@@ -1,0 +1,10 @@
+{
+  "item.tungstenmod.wolframite_chunk": "Wolframite Chunk",
+  "item.tungstenmod.tungsten_ingot": "Tungsten Ingot",
+
+  "block.tungstenmod.wolframite_ore": "Wolframite Ore",
+  "block.tungstenmod.tungsten_block": "Tungsten Block",
+
+  "itemGroup.tungstenmod.tungsten": "Tungsten Additions",
+  "itemGroup.tungstenmod.bismuth": "Bismuth Additions (empty)"
+}
