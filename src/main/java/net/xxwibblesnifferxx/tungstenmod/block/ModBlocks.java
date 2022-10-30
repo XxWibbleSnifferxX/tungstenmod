@@ -16,10 +16,10 @@ public class ModBlocks
 {
     //make blocks
     public static final Block WOLFRAMITE_ORE = registerBlock("wolframite_ore",
-            new Block(FabricBlockSettings.of(Material.STONE).strength(2.5f).requiresTool()), ModItemGroup.TUNGSTEN);
+            new Block(FabricBlockSettings.of(Material.STONE).strength(2.2f).requiresTool()), ModItemGroup.TUNGSTEN);
 
     public static final Block TUNGSTEN_BLOCK = registerBlock("tungsten_block",
-            new Block(FabricBlockSettings.of(Material.METAL).strength(3f).requiresTool()), ModItemGroup.TUNGSTEN);
+            new Block(FabricBlockSettings.of(Material.METAL).strength(2.4f).requiresTool()), ModItemGroup.TUNGSTEN);
 
     //registration
     private static Block registerBlock(String name, Block block, ItemGroup group)

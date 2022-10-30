@@ -5,6 +5,11 @@
   "block.tungstenmod.wolframite_ore": "Wolframite Ore",
   "block.tungstenmod.tungsten_block": "Tungsten Block",
 
+  "item.tungstenmod.tungsten_helmet": "Tungsten Helmet",
+  "item.tungstenmod.tungsten_chestplate": "Tungsten Chestplate",
+  "item.tungstenmod.tungsten_leggings": "Tungsten Leggings",
+  "item.tungstenmod.tungsten_boots": "Tungsten Boots",
+
   "itemGroup.tungstenmod.tungsten": "Tungsten Additions",
   "itemGroup.tungstenmod.bismuth": "Bismuth Additions (empty)"
 }
