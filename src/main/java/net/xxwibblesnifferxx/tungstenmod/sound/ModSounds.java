@@ -9,6 +9,7 @@ public class ModSounds
 {
     public static SoundEvent ROSS_BANGER_1 = registerSoundEvent("ross_banger_1");
     public static SoundEvent ROSS_BANGER_2 = registerSoundEvent("ross_banger_2");
+    public static SoundEvent ROSS_BANGER_3 = registerSoundEvent("ross_banger_3");
     private static SoundEvent registerSoundEvent(String name)
     {
         Identifier id = new Identifier(TungstenMod.MOD_ID, name);

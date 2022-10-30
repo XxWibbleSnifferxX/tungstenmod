@@ -28,6 +28,9 @@ public class ModItems
     public static final Item BANGER_DISC_2 = registerItem("banger_disc_2",
             new ModMusicDiscItem(7, ModSounds.ROSS_BANGER_2, new FabricItemSettings().group(ItemGroup.MISC).maxCount(1), 173));
 
+    public static final Item BANGER_DISC_3 = registerItem("banger_disc_3",
+            new ModMusicDiscItem(7, ModSounds.ROSS_BANGER_3, new FabricItemSettings().group(ItemGroup.MISC).maxCount(1), 184));
+
     //make armor
     public static final Item TUNGSTEN_HELMET = registerItem("tungsten_helmet",
             new ModArmorItem(ModArmorMaterials.TUNGSTEN, EquipmentSlot.HEAD,

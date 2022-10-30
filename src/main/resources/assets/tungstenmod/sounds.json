@@ -14,5 +14,13 @@
         "stream": true
       }
     ]
+  },
+  "ross_banger_3": {
+    "sounds": [
+      {
+        "name": "tungstenmod:ross_banger_3",
+        "stream": true
+      }
+    ]
   }
 }
