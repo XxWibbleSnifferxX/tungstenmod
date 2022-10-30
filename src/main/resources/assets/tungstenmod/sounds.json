@@ -1,0 +1,18 @@
+{
+  "ross_banger_1": {
+    "sounds": [
+      {
+        "name": "tungstenmod:ross_banger_1",
+        "stream": true
+      }
+    ]
+  },
+  "ross_banger_2": {
+    "sounds": [
+      {
+        "name": "tungstenmod:ross_banger_2",
+        "stream": true
+      }
+    ]
+  }
+}

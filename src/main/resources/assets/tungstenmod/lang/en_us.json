@@ -10,6 +10,11 @@
   "item.tungstenmod.tungsten_leggings": "Tungsten Leggings",
   "item.tungstenmod.tungsten_boots": "Tungsten Boots",
 
+  "item.tungstenmod.banger_disc_1": "Music Disc",
+  "item.tungstenmod.banger_disc_1.desc": "Ross Spencer - stroll",
+  "item.tungstenmod.banger_disc_2": "Music Disc",
+  "item.tungstenmod.banger_disc_2.desc": "Ross Spencer - meow",
+
   "itemGroup.tungstenmod.tungsten": "Tungsten Additions",
   "itemGroup.tungstenmod.bismuth": "Bismuth Additions (empty)"
 }
