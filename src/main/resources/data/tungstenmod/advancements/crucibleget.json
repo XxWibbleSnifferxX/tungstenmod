@@ -1,0 +1,28 @@
+{
+  "parent": "tungstenmod:wolframitechunkget",
+  "display": {
+    "icon": {
+      "item": "tungstenmod:crucible"
+    },
+    "title": "Karats on Demand",
+    "description": "Craft the Purification Crucible, an advanced machine powered by Amethyst.",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "background": "tungstenmod:textures/block/tungsten_block.png"
+  },
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "tungstenmod:crucible"
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

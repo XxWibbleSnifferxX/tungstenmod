@@ -22,6 +22,9 @@ public class ModItems
     public static final Item TUNGSTEN_INGOT = registerItem("tungsten_ingot",
             new Item(new FabricItemSettings().group(ModItemGroup.TUNGSTEN)));
 
+    public static final Item CRUCIBLE_REAGENT = registerItem("crucible_reagent",
+            new Item(new FabricItemSettings().group(ItemGroup.MISC)));
+
     public static final Item BANGER_DISC_1 = registerItem("banger_disc_1",
             new ModMusicDiscItem(7, ModSounds.ROSS_BANGER_1, new FabricItemSettings().group(ItemGroup.MISC).maxCount(1), 193));
 

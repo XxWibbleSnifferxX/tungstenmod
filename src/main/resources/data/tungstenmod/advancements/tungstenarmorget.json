@@ -1,0 +1,37 @@
+{
+  "parent": "tungstenmod:tungsteningotget",
+  "display": {
+    "icon": {
+      "item": "tungstenmod:tungsten_chestplate"
+    },
+    "title": "A Heavy Winter Coat",
+    "description": "Craft a completely unnecessary full set of Tungsten Armor.",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "background": "tungstenmod:textures/block/tungsten_block.png"
+  },
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "tungstenmod:tungsten_helmet"
+            ],
+            "items": [
+              "tungstenmod:tungsten_chestplate"
+            ],
+            "items": [
+              "tungstenmod:tungsten_leggings"
+            ],
+            "items": [
+              "tungstenmod:tungsten_boots"
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

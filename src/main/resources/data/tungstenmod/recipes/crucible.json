@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "A": {
+      "item": "minecraft:iron_block"
+    },
+    "B": {
+      "item": "minecraft:iron_bars"
+    },
+    "C": {
+      "item": "minecraft:comparator"
+    },
+    "E": {
+      "item": "minecraft:amethyst_block"
+    },
+    "F": {
+      "item": "minecraft:observer"
+    }
+  },
+  "pattern": [
+    "ACA",
+    "BEB",
+    "AFA"
+  ],
+  "result": {
+    "item": "tungstenmod:crucible"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "parent": "tungstenmod:crucibleget",
+  "display": {
+    "icon": {
+      "item": "tungstenmod:crucible_reagent"
+    },
+    "title": "Not Quite Magic",
+    "description": "Craft some Crucible Reagent.",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "background": "tungstenmod:textures/block/tungsten_block.png"
+  },
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "tungstenmod:crucible_reagent"
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

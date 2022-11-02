@@ -1,0 +1,28 @@
+{
+  "parent": "tungstenmod:reagentget",
+  "display": {
+    "icon": {
+      "item": "tungstenmod:tungsten_ingot"
+    },
+    "title": "Pure of Heart (And Metal)",
+    "description": "Purify a Wolframite Chunk and make a Tungsten Ingot!",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "background": "tungstenmod:textures/block/tungsten_block.png"
+  },
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "tungstenmod:tungsten_ingot"
+            ]
+          }
+        ]
+      }
+    }
+  }
+}
