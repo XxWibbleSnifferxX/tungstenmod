@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "tungstenmod:block/crucible" },
+    "facing=east": { "model": "tungstenmod:block/crucible", "y": 90 },
+    "facing=south": { "model": "tungstenmod:block/crucible", "y": 180 },
+    "facing=west": { "model": "tungstenmod:block/crucible", "y": 270 }
+  }
+}

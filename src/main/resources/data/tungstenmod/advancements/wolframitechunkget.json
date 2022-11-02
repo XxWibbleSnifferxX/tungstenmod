@@ -1,0 +1,28 @@
+{
+  "display": {
+    "icon": {
+      "item": "tungstenmod:wolframite_chunk"
+    },
+    "title": "Heavy Lifting",
+    "description": "Mine some super dense Wolframite Ore and obtain Wolframite Chunks.",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "background": "tungstenmod:textures/block/tungsten_block.png"
+  },
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "tungstenmod:wolframite_chunk"
+            ]
+          }
+        ]
+      }
+    }
+  }
+}
+}

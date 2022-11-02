@@ -4,6 +4,7 @@
 
   "block.tungstenmod.wolframite_ore": "Wolframite Ore",
   "block.tungstenmod.tungsten_block": "Tungsten Block",
+  "block.tungstenmod.crucible": "Purification Crucible",
 
   "item.tungstenmod.tungsten_helmet": "Tungsten Helmet",
   "item.tungstenmod.tungsten_chestplate": "Tungsten Chestplate",
@@ -11,7 +12,7 @@
   "item.tungstenmod.tungsten_boots": "Tungsten Boots",
 
   "item.tungstenmod.banger_disc_1": "Music Disc",
-  "item.tungstenmod.banger_disc_1.desc": "Ross Spencer - stroll",
+  "item.tungstenmod.banger_disc_1.desc": "Ross Spencer - bounce",
   "item.tungstenmod.banger_disc_2": "Music Disc",
   "item.tungstenmod.banger_disc_2.desc": "Ross Spencer - meow",
   "item.tungstenmod.banger_disc_3": "Music Disc",

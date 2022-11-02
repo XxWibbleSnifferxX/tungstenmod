@@ -1,0 +1,14 @@
+{
+  "type": "tungstenmod:crucible",
+  "ingredients": [
+    {
+      "item": "tungstenmod:wolframite_chunk"
+    },
+    {
+      "item": "tungstenmod:wolframite_chunk"
+    }
+  ],
+  "output": {
+    "item": "tungstenmod:tungsten_ingot"
+  }
+}

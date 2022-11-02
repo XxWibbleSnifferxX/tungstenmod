@@ -20,6 +20,9 @@
   "entrypoints": {
     "main": [
       "net.xxwibblesnifferxx.tungstenmod.TungstenMod"
+    ],
+    "client": [
+      "net.xxwibblesnifferxx.tungstenmod.TungstenModClient"
     ]
   },
   "mixins": [
